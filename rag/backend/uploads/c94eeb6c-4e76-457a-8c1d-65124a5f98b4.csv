@@ -1,0 +1,41 @@
+Review_ID,Product_ID,Category,Rating,Review_Text,Review_Date,Verified_Purchase
+RV001,P101,Electronics,5,"The laptop performance exceeded expectations with fast processing and excellent battery life",2023-01-20,TRUE
+RV002,P102,Furniture,3,"The chair is comfortable but the assembly instructions were unclear",2023-01-22,TRUE
+RV003,P103,Electronics,4,"Great smartphone camera quality but the battery drains quickly with heavy use",2023-01-25,FALSE
+RV004,P104,Office Supplies,2,"Paper quality is poor and tears easily when printing",2023-02-01,TRUE
+RV005,P101,Electronics,4,"Solid laptop for business use but could use more ports",2023-02-05,TRUE
+RV006,P102,Furniture,5,"Perfect ergonomic design - my back pain has significantly decreased",2023-02-10,TRUE
+RV007,P105,Electronics,1,"Tablet constantly freezes and the screen response is terrible",2023-02-12,FALSE
+RV008,P103,Electronics,3,"Decent phone but overpriced for the features offered",2023-02-15,TRUE
+RV009,P106,Electronics,5,"Wireless headphones have incredible noise cancellation and 30-hour battery life",2023-02-18,TRUE
+RV010,P107,Furniture,4,"Standing desk adjusts smoothly and the memory presets work perfectly",2023-02-20,FALSE
+RV011,P108,Office Supplies,5,"These gel pens write smoothly and don't smudge - perfect for note-taking",2023-02-22,TRUE
+RV012,P109,Electronics,2,"Smartwatch syncs poorly with Android and battery barely lasts a day",2023-02-25,FALSE
+RV013,P110,Furniture,1,"Bookshelf arrived damaged and the wood quality feels cheap",2023-02-28,TRUE
+RV014,P111,Office Supplies,4,"Binder is sturdy and holds 500+ pages without warping",2023-03-02,TRUE
+RV015,P112,Electronics,4,"4K monitor has stunning color accuracy but the stand is wobbly",2023-03-05,FALSE
+RV016,P113,Furniture,5,"Sofa is incredibly comfortable and the fabric is pet-resistant",2023-03-08,TRUE
+RV017,P114,Office Supplies,3,"Stapler jams frequently with more than 10 pages",2023-03-10,FALSE
+RV018,P101,Electronics,3,"Laptop overheats during intensive tasks and fan noise is distracting",2023-03-12,TRUE
+RV019,P102,Furniture,4,"Office chair lumbar support is excellent but armrests aren't adjustable",2023-03-15,TRUE
+RV020,P103,Electronics,5,"Smartphone received amazing software update that improved camera performance",2023-03-18,FALSE
+RV021,P115,Electronics,2,"Bluetooth speaker connection drops frequently and bass is weak",2023-03-20,TRUE
+RV022,P116,Furniture,4,"Desk lamp has 5 brightness levels and USB charging port is convenient",2023-03-22,FALSE
+RV023,P117,Office Supplies,5,"Label maker is easy to use and labels are waterproof",2023-03-25,TRUE
+RV024,P118,Electronics,3,"Gaming keyboard has great RGB lighting but keys feel mushy",2023-03-28,FALSE
+RV025,P119,Furniture,2,"Filing cabinet drawers don't slide smoothly and lock mechanism sticks",2023-03-30,TRUE
+RV026,P120,Office Supplies,4,"Whiteboard markers last long and don't have strong odor",2023-04-02,FALSE
+RV027,P101,Electronics,5,"Laptop customer support resolved my issue quickly under warranty",2023-04-05,TRUE
+RV028,P102,Furniture,2,"Chair wheels started squeaking after just 2 weeks of use",2023-04-08,FALSE
+RV029,P103,Electronics,4,"Phone screen is bright and readable in sunlight but fingerprint magnet",2023-04-10,TRUE
+RV030,P121,Electronics,1,"E-reader screen cracked in my bag with no impact - very fragile",2023-04-12,FALSE
+RV031,P122,Furniture,5,"Storage ottoman is spacious and the fabric is easy to clean",2023-04-15,TRUE
+RV032,P123,Office Supplies,3,"Calculator buttons require too much force and display is hard to read",2023-04-18,FALSE
+RV033,P124,Electronics,4,"Webcam has excellent low-light performance but microphone is average",2023-04-20,TRUE
+RV034,P125,Furniture,3,"Coffee table looks stylish but scratches very easily",2023-04-22,FALSE
+RV035,P126,Office Supplies,5,"Paper clips are strong and don't lose shape with repeated use",2023-04-25,TRUE
+RV036,P127,Electronics,2,"Power bank charges slowly and doesn't hold full capacity",2023-04-28,TRUE
+RV037,P128,Furniture,4,"Dining chairs are stackable and comfortable for long dinners",2023-05-02,FALSE
+RV038,P129,Office Supplies,1,"Tape dispenser constantly jams and the cutting blade is dull",2023-05-05,TRUE
+RV039,P130,Electronics,5,"Wireless charger works through thick cases and charges quickly",2023-05-08,FALSE
+RV040,P131,Furniture,3,"Nightstand has nice finish but drawer alignment is off",2023-05-10,TRUE
